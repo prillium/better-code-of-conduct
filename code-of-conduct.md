@@ -52,4 +52,5 @@ Visitors, participants, and team members who do not follow or enforce the Code o
 *Portions of this Code of Conduct have been adapted from the [Contributor Covenant][homepage], version 1.4,
 available at [http://contributor-covenant.org/version/1/4][version]*
 
-
+[homepage]: http://contributor-covenant.org
+[version]: http://contributor-covenant.org/version/1/4/
